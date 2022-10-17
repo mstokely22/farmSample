@@ -1,0 +1,2126 @@
+fileFormatVersion: 2
+guid: d8859be5fb75b1449aa386981a178b02
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 675
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b674350529cb1942aa0367b80872006
+      internalID: 446338501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 675
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edeb335b91a954644a70e298a7efd2c8
+      internalID: -403676815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 675
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c107ae1a4bc2c384eabd882abdb86fae
+      internalID: -760507259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 675
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ae19e188afdef409b032aaa82d777d
+      internalID: -1864007018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 675
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd5ae22feac71d4a916580ee59f4f85
+      internalID: -410123000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 675
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf6aecb89b7d674fb340ca3e8b45b16
+      internalID: -1005905454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 675
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37592d01a3adefa4ba750d57f384b1ed
+      internalID: 1714432005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 675
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4ed37d3af76dd4b8e45304d7a9e558
+      internalID: -744195210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_8
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 675
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5270a36baaca3445835a818fd0fa891
+      internalID: 580005756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 675
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7811bc335973b54f8ceaf255d7ac052
+      internalID: -2045466311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_10
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 675
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b878fa5ba658847ac8cc4e7ea2d2bd
+      internalID: 1183121974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_11
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 675
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e394927c459c46c4ca47b3aae47a46d6
+      internalID: -2077490848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 579
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707278047c9f2104a8a68408d88b582a
+      internalID: -806951645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 579
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c01f33b318e0ac41afb5158e819b00f
+      internalID: 34320781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_14
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 579
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174456d2ffc285f4a9c7f96e6fd88396
+      internalID: 974477238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 579
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24402f7a65d5e448869d47c5a6d4bff
+      internalID: 1036541957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_16
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 579
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4308529f062e914d94997b27983b334
+      internalID: 456500782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_17
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 579
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d3791eb98f41c4abdbf81344275024
+      internalID: 1110070912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 579
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48dc0fbd08b3944694fb2535e7046c9
+      internalID: 1744506096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_19
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 579
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7a3900fe645b149beca5f7c10b8ed0
+      internalID: 234969797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_20
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 579
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6a466ae4cc2014889127e0f982bf37
+      internalID: 490589044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_21
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 579
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fe8473f96008440964304fad17da3c
+      internalID: -1395648248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_22
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 579
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bbe09732f87d6439341199e85fad20
+      internalID: -1103456911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_23
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 579
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc425c3a8fdaba419f478872b186ade
+      internalID: -528455286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 483
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c20ed511119358439f4f11c7b49cea5
+      internalID: 1264795856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_25
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 483
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8c089e36ddc19469ccc0686e665ea4
+      internalID: 1403612009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 483
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20613b2567aca641830065a93eb4862
+      internalID: 864296939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_27
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 483
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed01650660cd5f45b773ca1e27a7038
+      internalID: -227599396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_28
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 483
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9e763f0b174ba43a8e5f8b9c01726e
+      internalID: 1209815303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_29
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 483
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b994ac8da628875448357b2c274b1ab9
+      internalID: -178902333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_30
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 483
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0c623433cbd0e4eac18c0ec51704ad
+      internalID: -68262484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_31
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 483
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df475f637b2bd4468afeb15d018fdc6
+      internalID: 221005277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 483
+        width: 42
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85aa9f86d3d201f4e8ba541e5e897cde
+      internalID: -660931034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_33
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 483
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb5b881965595547a2de1b355d03d3f
+      internalID: -326389649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_34
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 483
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca64dea7d243b8246bff17cc8273c950
+      internalID: -1388897337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_35
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 483
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a281690f410794583b47a45342b827
+      internalID: -93380762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 387
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a574390a96410b247a104ed70d12e689
+      internalID: -2045181848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 387
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59df8a5aed889384d932643cbfd9c757
+      internalID: 1550068477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_38
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 387
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80460b72fd1dd1847b1ac50132978130
+      internalID: -444851089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 387
+        width: 96
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74ba418654548d4e8b85b8cb8fd54df
+      internalID: -1936886872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_40
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 387
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3d7e3fa98a7cb43b1fa81c003ddcf0
+      internalID: -1623689690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_41
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 387
+        width: 36
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4153d0805362eaf4bb5e0caa0b8a73c2
+      internalID: 1929674814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_42
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 387
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4da7c3d31198be489303e23b0053de7
+      internalID: 1854887343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 387
+        width: 42
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf128b83d00c00418a344782031671e
+      internalID: -1380231453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_44
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 384
+        width: 144
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d987e678f3b9f44bfafc59313db12e
+      internalID: 1962935912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_45
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 294
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08dd5d2d096c844b9ed0a3a4323656a
+      internalID: 685990842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_46
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 294
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ce99f5a8086f4468111d4f95a9f29a
+      internalID: 2102506161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_47
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 294
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f221de23a2e117f4cbf67336f025746c
+      internalID: 840313850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_48
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 294
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b916dbdda2093849a4c1759800beb95
+      internalID: 1439545806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_49
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 294
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e303dca77d7005409e962ee558ae172
+      internalID: 1190521642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_50
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 294
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f474fdb4f9d973946a4869ac8e23d8da
+      internalID: 111007402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_51
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 294
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd681d9b2fcd01b468ad99dd1b154409
+      internalID: 1611382942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_52
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 294
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654158a280a0d9f459bb3945e502b1ae
+      internalID: 167036305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_53
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 294
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da10ac5db32c04f4aa73b360b061970b
+      internalID: 575290091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_54
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 294
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e71e90eb66da8e45a91e705fbc51144
+      internalID: 317326109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_55
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 294
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f255fa273c6ad0e4f8a02d939bec0fcf
+      internalID: -648933286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_56
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 294
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6376c040d08d47e4e8ffa4a0cb5440a5
+      internalID: 331122553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_57
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 198
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa36f6270bf883418c545c4aa1da730
+      internalID: -2035330718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_58
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 198
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bbc0d337dcdc0478b82d4c40296789
+      internalID: 624097210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_59
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 198
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463ab8065eecc084999580ff05a09ac1
+      internalID: 704411012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_60
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 198
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c3473fbe979aa4ca476380de0dbfba
+      internalID: 466116628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_61
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 198
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f41683414e1024fbbaf1c1b1aa4f29
+      internalID: -790380189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_62
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 198
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2edef81d6d44c48a5b62e57c9dcc8e
+      internalID: -322513058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 198
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e94c5712a2586c4d93437b205873a1d
+      internalID: 559409187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_64
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 198
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2531929a3559c842ac5e89845c477e5
+      internalID: 1760360070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_65
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 198
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3abbe2077aaaa4e91036710c52ebdf
+      internalID: -568256701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_66
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 198
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa33e74663e7bf4a9fa7c912bb5739e
+      internalID: -339665184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_67
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 198
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8d19b58ae87444381234cb1d9b7441
+      internalID: 363899374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 198
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6bdedacdb81ce43a1106b7f6067823
+      internalID: 763348607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_69
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 102
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7371e0f40fd96b54ca5e95f047d9b42b
+      internalID: 1678896835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_70
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 102
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b15db3015e290c46a30b3912639264b
+      internalID: 136745481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_71
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 102
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad061fb3db125f44ba603778d630a568
+      internalID: 929084741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_72
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 102
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d56929aadf60454889dd7e1da76fa4e
+      internalID: 274862363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_73
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 102
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b5f183af282f646bcab40c23adee1e
+      internalID: 257896589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_74
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 102
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610c6217dcdc63c409f5e88c7e01321c
+      internalID: -498916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_75
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 102
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d0a551416bcbd49ab67277bb116cbd
+      internalID: -560203756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_76
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 102
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7597abe350d76c44390fdaf357dda30c
+      internalID: 273898548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_77
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 102
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fdac9bc27871f4aad26df86fea0e78
+      internalID: -999695444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_78
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 102
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233409a798b62df44845562ee2ffa708
+      internalID: 1194205801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_79
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 102
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685d595fc730356478c1a010d75a7858
+      internalID: 1486442708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_80
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 102
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9249d14aca03be94aa1082b6ffcff653
+      internalID: -1400017924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_81
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 6
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed226f9517246a94ca54f63b4df68ce0
+      internalID: -1998558737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_82
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 6
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecdb54b5c84ea244996555d99f055c2
+      internalID: 1206362735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_83
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 6
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8629d084729442e4fba08f6553b98b7e
+      internalID: 914757337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_84
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 6
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f44601b7d74eaa4aa94211357c8aed8
+      internalID: -566629208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_85
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 6
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71a305ee1a5e8644b5d0a02b5560fc7
+      internalID: -1150924606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_86
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 6
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b302e84b28a48d347bd8d51098d779ca
+      internalID: 716252319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_87
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 6
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e587bb9ff3e921043829e414debf5930
+      internalID: 536260483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_88
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 6
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6aa615d13cabe345872515af2175f20
+      internalID: 1826345427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenhouseplants_char_3_89
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 144
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b09bf8ca4741924191bb4c8195a8c71
+      internalID: 1812261962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      greenhouseplants_char_3_29: -178902333
+      greenhouseplants_char_3_0: 446338501
+      greenhouseplants_char_3_76: 273898548
+      greenhouseplants_char_3_19: 234969797
+      greenhouseplants_char_3_85: -1150924606
+      greenhouseplants_char_3_87: 536260483
+      greenhouseplants_char_3_37: 1550068477
+      greenhouseplants_char_3_63: 559409187
+      greenhouseplants_char_3_66: -339665184
+      greenhouseplants_char_3_31: 221005277
+      greenhouseplants_char_3_7: -744195210
+      greenhouseplants_char_3_72: 274862363
+      greenhouseplants_char_3_39: -1936886872
+      greenhouseplants_char_3_30: -68262484
+      greenhouseplants_char_3_23: -528455286
+      greenhouseplants_char_3_11: -2077490848
+      greenhouseplants_char_3_62: -322513058
+      greenhouseplants_char_3_2: -760507259
+      greenhouseplants_char_3_15: 1036541957
+      greenhouseplants_char_3_43: -1380231453
+      greenhouseplants_char_3_33: -326389649
+      greenhouseplants_char_3_58: 624097210
+      greenhouseplants_char_3_13: 34320781
+      greenhouseplants_char_3_35: -93380762
+      greenhouseplants_char_3_34: -1388897337
+      greenhouseplants_char_3_40: -1623689690
+      greenhouseplants_char_3_44: 1962935912
+      greenhouseplants_char_3_61: -790380189
+      greenhouseplants_char_3_73: 257896589
+      greenhouseplants_char_3_54: 317326109
+      greenhouseplants_char_3_4: -410123000
+      greenhouseplants_char_3_6: 1714432005
+      greenhouseplants_char_3_50: 111007402
+      greenhouseplants_char_3_32: -660931034
+      greenhouseplants_char_3_49: 1190521642
+      greenhouseplants_char_3_75: -560203756
+      greenhouseplants_char_3_82: 1206362735
+      greenhouseplants_char_3_67: 363899374
+      greenhouseplants_char_3_65: -568256701
+      greenhouseplants_char_3_10: 1183121974
+      greenhouseplants_char_3_77: -999695444
+      greenhouseplants_char_3_89: 1812261962
+      greenhouseplants_char_3_71: 929084741
+      greenhouseplants_char_3_28: 1209815303
+      greenhouseplants_char_3_84: -566629208
+      greenhouseplants_char_3_16: 456500782
+      greenhouseplants_char_3_41: 1929674814
+      greenhouseplants_char_3_3: -1864007018
+      greenhouseplants_char_3_9: -2045466311
+      greenhouseplants_char_3_74: -498916
+      greenhouseplants_char_3_88: 1826345427
+      greenhouseplants_char_3_5: -1005905454
+      greenhouseplants_char_3_21: -1395648248
+      greenhouseplants_char_3_24: 1264795856
+      greenhouseplants_char_3_52: 167036305
+      greenhouseplants_char_3_64: 1760360070
+      greenhouseplants_char_3_8: 580005756
+      greenhouseplants_char_3_83: 914757337
+      greenhouseplants_char_3_78: 1194205801
+      greenhouseplants_char_3_53: 575290091
+      greenhouseplants_char_3_12: -806951645
+      greenhouseplants_char_3_48: 1439545806
+      greenhouseplants_char_3_22: -1103456911
+      greenhouseplants_char_3_45: 685990842
+      greenhouseplants_char_3_86: 716252319
+      greenhouseplants_char_3_70: 136745481
+      greenhouseplants_char_3_60: 466116628
+      greenhouseplants_char_3_80: -1400017924
+      greenhouseplants_char_3_79: 1486442708
+      greenhouseplants_char_3_81: -1998558737
+      greenhouseplants_char_3_1: -403676815
+      greenhouseplants_char_3_14: 974477238
+      greenhouseplants_char_3_36: -2045181848
+      greenhouseplants_char_3_27: -227599396
+      greenhouseplants_char_3_26: 864296939
+      greenhouseplants_char_3_42: 1854887343
+      greenhouseplants_char_3_51: 1611382942
+      greenhouseplants_char_3_18: 1744506096
+      greenhouseplants_char_3_56: 331122553
+      greenhouseplants_char_3_59: 704411012
+      greenhouseplants_char_3_57: -2035330718
+      greenhouseplants_char_3_69: 1678896835
+      greenhouseplants_char_3_68: 763348607
+      greenhouseplants_char_3_20: 490589044
+      greenhouseplants_char_3_55: -648933286
+      greenhouseplants_char_3_47: 840313850
+      greenhouseplants_char_3_25: 1403612009
+      greenhouseplants_char_3_46: 2102506161
+      greenhouseplants_char_3_38: -444851089
+      greenhouseplants_char_3_17: 1110070912
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
